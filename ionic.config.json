@@ -1,0 +1,8 @@
+{
+  "name": "kamea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "48aa7d30"
+}
